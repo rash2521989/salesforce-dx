@@ -17,28 +17,28 @@
     [
         "/Users/rthippeswamy/GeoLocation_Project/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/rthippeswamy/GeoLocation_Project/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1530212662999,
             "changeTime": 1530212662999,
-            "isWorkspace": false,
-            "contentHash": "9e432eefcdd100c93c89ee6b555c8f7b1729c110"
+            "contentHash": "9e432eefcdd100c93c89ee6b555c8f7b1729c110",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/rthippeswamy/GeoLocation_Project/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/rthippeswamy/GeoLocation_Project/force-app/main/default",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1530211932147,
-            "changeTime": 1530211932147,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 256,
+            "modifiedTime": 1530213335075,
+            "changeTime": 1530213335075,
+            "contentHash": "ba0663e4f0db13d36c33309fabc6d31cdc83ccbc"
         }
     ],
     [
@@ -59,15 +59,15 @@
     [
         "/Users/rthippeswamy/GeoLocation_Project",
         {
-            "state": "u",
             "sourcePath": "/Users/rthippeswamy/GeoLocation_Project",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1530212079272,
             "changeTime": 1530212079272,
-            "isWorkspace": true,
-            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0"
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -242,27 +242,53 @@
     [
         "/Users/rthippeswamy/GeoLocation_Project/force-app/main/AccountControllerHelper.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/rthippeswamy/GeoLocation_Project/force-app/main/AccountControllerHelper.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 361,
             "modifiedTime": 1530212763506,
             "changeTime": 1530212763506,
-            "contentHash": "a598bdd5bca22480d968a3b3f9bf6bb29926e88e"
+            "contentHash": "a598bdd5bca22480d968a3b3f9bf6bb29926e88e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rthippeswamy/GeoLocation_Project/force-app/main/AccountControllerHelper.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rthippeswamy/GeoLocation_Project/force-app/main/AccountControllerHelper.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
             "modifiedTime": 1530212662999,
             "changeTime": 1530212662999,
-            "contentHash": "12c12812bcdc08d2db26eef10fd6ccb5d05d3a5f"
+            "contentHash": "12c12812bcdc08d2db26eef10fd6ccb5d05d3a5f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rthippeswamy/GeoLocation_Project/force-app/main/default/AccountTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rthippeswamy/GeoLocation_Project/force-app/main/default/AccountTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 54,
+            "modifiedTime": 1530213345643,
+            "changeTime": 1530213345643,
+            "contentHash": "0a1e4d0dfa9923f584101df80f1e1b21a8ec431b"
+        }
+    ],
+    [
+        "/Users/rthippeswamy/GeoLocation_Project/force-app/main/default/AccountTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rthippeswamy/GeoLocation_Project/force-app/main/default/AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1530213335075,
+            "changeTime": 1530213335075,
+            "contentHash": "40e6c1c2d0811af2a29e456c47db3b12c4770f92"
         }
     ]
 ]
